@@ -1,4 +1,4 @@
-# CRM
+# CRM (Inventory and Customer Relationship Management System)
 C++ program to manage inventory and customer purchases.
 
 How to Run CRM:
